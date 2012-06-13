@@ -1,0 +1,4 @@
+[26-May-2012 14:53:08] PHP Warning:  require_once(/home/u514100922/public_html/../framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/u514100922/public_html/index.php on line 12
+[26-May-2012 14:53:08] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/u514100922/public_html/../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u514100922/public_html/index.php on line 12
+
+

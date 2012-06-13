@@ -1,0 +1,4 @@
+[22-May-2012 13:43:38] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u229543015/public_html/engine/core.php on line 26
+[22-May-2012 13:43:38] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/u229543015/public_html/engine/core.php on line 27
+
+
